@@ -19,7 +19,7 @@ A custom nginx build that includes:
 sudo apt-get remove nginx nginx-common nginx-core nginx-full -y
 
 # Download and install
-wget https://github.com/ENGINYRING/nginx-with-pagespeed/releases/download/v1.29.1/nginx-with-pagespeed_1.29.1-1_amd64.deb
+wget https://github.com/ENGINYRING/nginx-with-pagespeed/releases/download/v1/nginx-with-pagespeed_1.29.1-1_amd64.deb
 sudo dpkg -i nginx-with-pagespeed_1.29.1-1_amd64.deb
 sudo apt-get install -f -y
 
